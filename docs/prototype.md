@@ -10,7 +10,7 @@
 
 ## Видео
 - [Дизайн игровых систем](https://www.youtube.com/watch?v=EIRjLcAvhMs) [Есть пример создания систем через модель MDA]
-- [Гейм-дизайнерские фреймворки: Инструменты для создания увлекательных игр | Мария Аксютина | Lead-UP](https://www.youtube.com/watch?v=6xzrB5xKbdA)
+- [Гейм-дизайнерские фреймворки: Инструменты для создания увлекательных игр / Мария Аксютина](https://www.youtube.com/watch?v=6xzrB5xKbdA)
 - [Сергей Гимельрейх: «Как придумать новый геймплей?»](https://www.youtube.com/watch?app=desktop&v=KTL17VuBFRQ)
 - [Ori and the Bilnd Forest Early Animation Prototype](https://www.youtube.com/watch?v=OouOhIJL1i4)
 - [Прототипирование как ключевой инструмент геймдизайна / Дмитрий Пименов ](https://www.youtube.com/watch?v=EtUlzn0TlK8)
