@@ -14,7 +14,7 @@
 - [Сергей Гимельрейх: «Как придумать новый геймплей?»](https://www.youtube.com/watch?app=desktop&v=KTL17VuBFRQ)
 - [Ori and the Bilnd Forest Early Animation Prototype](https://www.youtube.com/watch?v=OouOhIJL1i4)
 - [Прототипирование как ключевой инструмент геймдизайна / Дмитрий Пименов ](https://www.youtube.com/watch?v=EtUlzn0TlK8)
-
+- [Левл дизайн Doom на бумаге](https://t.me/game_idea/1532) 
 ---
 
 Подписывайтесь на мой личный блог в tg: [@getsky_blog](https://t.me/getsky_blog).
