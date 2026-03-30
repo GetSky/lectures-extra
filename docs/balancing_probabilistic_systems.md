@@ -6,7 +6,7 @@
   - [Часть II](https://gdcuffs.com/probability-part-2)
 - [Серкан Тото — «5 популярных гача-механик»](https://app2top.ru/industry/pyat-topovy-h-monetizatsionny-h-mehanik-gacha-dlya-ohoty-na-kitov-76056.html?ysclid=la6xx03jmd115446283)
 - [Тайлер Сигман (Big Sandwich Games) — Вероятность для геймдизайнеров (о волосах из ноздри орка)](https://www.gamedeveloper.com/design/statistically-speaking-it-s-probably-a-good-game-part-1-probability-for-game-designers )
-- Ян Шрайбер — Концепт игрового баланса [ [eng](https://gamebalanceconcepts.wordpress.com/) | [rus](http://aushestov.ru/%d1%88%d1%80%d0%b0%d0%b9%d0%b1%d0%b5%d1%80) ]
+- Ян Шрайбер — Концепт игрового баланса [eng](https://gamebalanceconcepts.wordpress.com/) / [rus](http://aushestov.ru/%d1%88%d1%80%d0%b0%d0%b9%d0%b1%d0%b5%d1%80)
     - Главы про вероятность от туда:
       - [Уровень 4: Вероятность и Случайность](http://aushestov.ru/%d1%83%d1%80%d0%be%d0%b2%d0%b5%d0%bd%d1%8c-4-%d0%b2%d0%b5%d1%80%d0%be%d1%8f%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%b8-%d1%81%d0%bb%d1%83%d1%87%d0%b0%d0%b9%d0%bd%d0%be%d1%81%d1%82%d1%8c/)
       - [Уровень 5: Вероятности и случайность в полнейшем беспорядке](http://aushestov.ru/%d1%83%d1%80%d0%be%d0%b2%d0%b5%d0%bd%d1%8c-5-%d0%b2%d0%b5%d1%80%d0%be%d1%8f%d1%82%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d0%b8-%d1%81%d0%bb%d1%83%d1%87%d0%b0%d0%b9%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%b2-%d0%bf/)
