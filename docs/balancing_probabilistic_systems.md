@@ -20,6 +20,9 @@
 
 ## Видео
 - [Биномиальное распределение вероятностей](https://www.youtube.com/watch?v=kkgE50r6kIM)
+- [The Two Types of Random in Game Design](https://www.youtube.com/watch?v=dwI5b-wRLic)
+- [The Delta of Randomness - Can You Balance for RNG? - Extra Credits](https://www.youtube.com/watch?v=0V5eq4IQ6Go)
+- [How Games Twist Probability - Extra Credits Gaming](https://www.youtube.com/watch?v=YF2KqeH7ebM)
 
 ---
 Подписывайтесь на мой личный блог в  Telegram: [@getsky_blog](https://t.me/getsky_blog).
