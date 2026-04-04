@@ -9,7 +9,8 @@
 - [Прототипирование игр на примере игровой экономики](https://habr.com/ru/companies/miip/articles/948726)
 
 ## Посты в Telegram
-- [Левл дизайн Doom на бумаге](https://t.me/game_idea/1532) 
+- [Левл дизайн Doom на бумаге](https://t.me/game_idea/1532)
+- [Markdown как основной формат для гейм-дизайнерской документации](https://t.me/getsky_blog/9)
 
 ## Видео
 - [Дизайн игровых систем](https://www.youtube.com/watch?v=EIRjLcAvhMs) [Есть пример создания систем через модель MDA]
@@ -17,6 +18,9 @@
 - [Сергей Гимельрейх: «Как придумать новый геймплей?»](https://www.youtube.com/watch?app=desktop&v=KTL17VuBFRQ)
 - [Ori and the Bilnd Forest Early Animation Prototype](https://www.youtube.com/watch?v=OouOhIJL1i4)
 - [Прототипирование как ключевой инструмент геймдизайна / Дмитрий Пименов ](https://www.youtube.com/watch?v=EtUlzn0TlK8)
+
+## Инструменты
+- [Агентские скиллы для Godot](https://github.com/thedivergentai/gd-agentic-skills/archive/refs/heads/main.zip). Из архива копируете каталог `skills` и файл `skills_index.json` в свой каталог, который укажите в агенте как папку проекта.
 
 ---
 
