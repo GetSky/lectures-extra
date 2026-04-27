@@ -65,8 +65,8 @@
 ## Примеры документации
 ### КОНЦЕПТ-ДОКУМЕНТ
 Чтобы проще было, могу предложить два шаблона на выбор, которые достаточно хороши чтобы передать смысл игры:
-- Курочка Ряба - Концепт (https://docs.google.com/document/d/1LBjRIzOs_zxzWVnGTrYcdzh9skIhAnSq11vNbQskOH8)
-- TBD (https://docs.google.com/document/d/1ZyEdvgoBYmKJTMghiOjWokm6qw-w-9kIBln0fuyAKNM)
+- [Курочка Ряба - Концепт](https://docs.google.com/document/d/1LBjRIzOs_zxzWVnGTrYcdzh9skIhAnSq11vNbQskOH8)
+- [TBD](https://docs.google.com/document/d/1ZyEdvgoBYmKJTMghiOjWokm6qw-w-9kIBln0fuyAKNM)
 
 Примеры:
 - [Концепт-1](https://docs.google.com/document/d/1-skq-YmlZDCnj0G-HLaaALoM8zAixx7uOAvCsBp-Wwk)
