@@ -150,6 +150,9 @@
 Примеры:
 - [Философия](https://docs.google.com/document/d/13xVPuavDtTp1brRuPFaOyPweNb43YjTSFuw9PPRA7FA)
 
+### ТАБЛИЦА БАЛАНСА
+- [Таблица баланса](https://docs.google.com/spreadsheets/d/1r3Zay4RJaRKip1bvUQoXeB9Yn1pzfLm7zpX6juJgXSw)
+
 ### НАРРАТИВНЫЕ ДОКУМЕНТЫ
 - [Нарратив 1](https://docs.google.com/document/d/1nHm-l_3JC5-PbcW4pQeXVIvlyewv8xU-wWawG5eheuY)
 
